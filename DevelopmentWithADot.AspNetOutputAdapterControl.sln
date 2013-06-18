@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4655D274-1541-46A7-84D2-0FD0CC7668BB}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.AspNetOutputAdapterControl", "DevelopmentWithADot.AspNetOutputAdapterControl\DevelopmentWithADot.AspNetOutputAdapterControl.csproj", "{C888C8C9-46BB-4200-833C-8C15AC4B5C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C888C8C9-46BB-4200-833C-8C15AC4B5C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C888C8C9-46BB-4200-833C-8C15AC4B5C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C888C8C9-46BB-4200-833C-8C15AC4B5C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C888C8C9-46BB-4200-833C-8C15AC4B5C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C888C8C9-46BB-4200-833C-8C15AC4B5C9C} = {4655D274-1541-46A7-84D2-0FD0CC7668BB}
+	EndGlobalSection
+EndGlobal
